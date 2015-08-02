@@ -1,0 +1,27 @@
+{
+  "name": "brew-bear",
+  "version": "0.0.1",
+  "description": "site generator for HomeBrew recipe index",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/phlogisticfugu/brew-bear.git"
+  },
+  "author": "phlogisitfugu@gmail.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/phlogisticfugu/brew-bear/issues"
+  },
+  "homepage": "https://github.com/phlogisticfugu/brew-bear",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-webpack": "^1.5.0",
+    "mocha": "^2.2.5"
+  },
+  "dependencies": {
+    "foundation-sites": "^5.5.2"
+  }
+}
