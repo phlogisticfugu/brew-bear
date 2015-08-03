@@ -17,11 +17,12 @@
   },
   "homepage": "https://github.com/phlogisticfugu/brew-bear",
   "devDependencies": {
-    "gulp": "^3.9.0",
-    "gulp-webpack": "^1.5.0",
     "mocha": "^2.2.5"
   },
   "dependencies": {
-    "foundation-sites": "^5.5.2"
+    "foundation-sites": "^5.5.2",
+    "gulp": "^3.9.0",
+    "nodegit": "^0.4.1",
+    "webpack-stream": "^2.1.0"
   }
 }
