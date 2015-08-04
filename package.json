@@ -20,9 +20,11 @@
     "mocha": "^2.2.5"
   },
   "dependencies": {
+    "del": "^1.2.0",
     "foundation-sites": "^5.5.2",
     "gulp": "^3.9.0",
     "nodegit": "^0.4.1",
+    "run-sequence": "^1.1.2",
     "webpack-stream": "^2.1.0"
   }
 }
